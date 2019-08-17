@@ -3,11 +3,11 @@ $:.push File.expand_path("../lib", __FILE__)
 require "social_share_button/version"
 
 Gem::Specification.new do |s|
-  s.name        = "social-share-button"
+  s.name        = "social-share-button-srules"
   s.version     = SocialShareButton::VERSION
-  s.authors     = ["Jason Lee"]
-  s.email       = ["huacnlee@gmail.com"]
-  s.homepage    = "http://github.com/huacnlee/social-share-button"
+  s.authors     = ["Nicholas Schiavi"]
+  s.email       = ["nicholasschiavi@gmail.com"]
+  s.homepage    = "http://github.com/Srules/social-share-button"
   s.summary     = %q{Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban, QQ, Tumblr ...}
   s.description = %q{Helper for add social share feature in your Rails app. Twitter, Facebook, Weibo, Douban, QQ, Tumblr ...}
   s.license     = 'MIT'
